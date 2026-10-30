@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks>
+<NationalParks xmlns="https://annieakraft.github.io/CSE445Assignment4/">
 
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
